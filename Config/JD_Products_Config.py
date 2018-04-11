@@ -1,0 +1,8 @@
+urls_collections_config = {
+
+    '京东-美妆类--雅诗兰黛': ['https://search.jd.com/search?keyword=%E9%9B%85%E8%AF%97%E5%85%B0%E9%BB%9B%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E4%B8%93%E5%8C%BA&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&wq=%E9%9B%85%E8%AF%97%E5%85%B0%E9%BB%9B%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E4%B8%93%E5%8C%BA&sid=1000003270&ev=exbrand_%E9%9B%85%E8%AF%97%E5%85%B0%E9%BB%9B%EF%BC%88Estee%20Lauder%EF%BC%89%5E&uc=0#J_searchWrap', 'ysld_jd', '3', 'Estee Lauder雅诗兰黛']
+    ,'京东-美妆类--海蓝之谜': ['https://search.jd.com/search?keyword=%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%B5%B7%E8%93%9D%E4%B9%8B%E8%B0%9C%E4%B8%93%E5%8C%BA&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&sid=1000016304&ev=exbrand_%E6%B5%B7%E8%93%9D%E4%B9%8B%E8%B0%9C%EF%BC%88LA%20MER%EF%BC%89%5E&uc=0#J_searchWrap', 'ysld_jd', '3', 'La Mer海蓝之谜']
+    ,'京东-美妆类--倩碧': ['https://search.jd.com/search?keyword=%E5%80%A9%E7%A2%A7%E8%87%AA%E8%90%A5%E5%93%81%E7%89%8C%E4%B8%93%E5%8C%BA&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&wq=%E9%9B%85%E8%AF%97%E5%85%B0%E9%BB%9B%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E4%B8%93%E5%80%A9%E7%A2%A7%E8%87%AA%E8%90%A5%E5%93%81%E7%89%8C%E4%B8%93%E5%8C%BA%E5%8C%BA&sid=1000006441&ev=exbrand_%E5%80%A9%E7%A2%A7%EF%BC%88CLINIQUE%EF%BC%89%5E&uc=0#J_searchWrap', 'ysld_jd', '3', 'Clinique倩碧']
+    ,'京东-美妆类--悦木之源': ['https://search.jd.com/search?keyword=%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%82%A6%E6%9C%A8%E4%B9%8B%E6%BA%90%E4%B8%93%E5%8C%BA&enc=utf-8&qrst=1&rt=1&stop=1&vt=2&wq=%E4%BA%AC%E4%B8%9C%E8%87%AA%E8%90%A5%E6%82%A6%E6%9C%A8%E4%B9%8B%E6%BA%90%E4%B8%93%E5%8C%BA&sid=1000016325&ev=exbrand_%E6%82%A6%E6%9C%A8%E4%B9%8B%E6%BA%90%EF%BC%88Origins%EF%BC%89%5E&uc=0#J_searchWrap', 'ysld_jd', '3', '悦木之源']
+
+}
